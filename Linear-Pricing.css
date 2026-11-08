@@ -8,7 +8,7 @@
 body {
     font-family: "Inter", sans-serif;
     color: #f7f8f8;
-    height: 10000px;
+    height: auto;
     max-width: 1349px;
     background-color: #070708;
 }
