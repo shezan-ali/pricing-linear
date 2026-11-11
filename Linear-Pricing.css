@@ -295,7 +295,7 @@ ul {
 
 .c1-t {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
 .c1-ts:not(:first-child) {
@@ -441,6 +441,7 @@ ul {
 .c1-ts-lisv {
     transition-property: fill;
     fill: #d0d6e0;
+    flex-shrink: 0;
 }
 
 .c1-ts-lis {
