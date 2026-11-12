@@ -33,7 +33,7 @@ Created to demonstrate how clean frontend architecture eliminates mobile bounce 
 
 ![Linear Pricing Desktop](assets/linear-pricing-desktop.png)
 
-![Linear Pricing Mobile](assets/linear-pricing-mobile.png)  ![Linear Mobile Navigation](assets/linear-mobile-nav.png)
+![Linear Pricing Mobile](assets/linear-pricing-mobile.png)                ![Linear Mobile Navigation](assets/linear-mobile-nav.png)
 
 ## Interactive Demo & Animations
 
