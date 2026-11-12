@@ -41,7 +41,11 @@ Created to demonstrate how clean frontend architecture eliminates mobile bounce 
 
 _Showcasing the responsive mobile navigation menu toggle and the continuous infinite logo marquee animation at the bottom of the page._
 
-[Drag and drop your short MP4 screen recording here on GitHub]
+
+
+https://github.com/user-attachments/assets/401a34eb-e562-48cc-bf28-edad2a366117
+
+
 
 ## Live Demo
 
